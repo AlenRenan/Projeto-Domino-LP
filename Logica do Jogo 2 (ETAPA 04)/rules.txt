@@ -1,0 +1,5 @@
+Cada jogador recebe 7 pedras quando comeca a rodada. Se na partida houver menos de 4 jogadores, as pedras restantes ficam no dorme para serem compradas.
+
+O jogo comeca pelo jogador que tenha a pedra dobrada mais alta (se jogam 4 pessoas, sempre comecara quem tem o seis dobre ou carrilhao). No caso de que nenhum jogador tenha dobradas, comecara o jogador que tenha a pedra mais alta. A partir desse momento, os jogadores realizam suas jogadas, por turnos e no sentido anti-horario.
+
+O jogador que comeca a partida leva vantagem. Este e um conceito importante para a estrategia do domino, pois o jogador ou dupla que comeca, normalmente, e o que leva a vantagem durante a partida.
